@@ -1,2 +1,2 @@
-# calculator
+# FoodTracker
 i like pancakes
